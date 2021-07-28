@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Empty_Player</string>
+    <string name="nama">Nama</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="email">agcandranugroho@gmail.com</string>
+    <string name="nama_lengkap">Ag. Candra Nugroho</string>
+    <string name="ciri">Ciri-Ciri</string>
+    <string name="umur">Umur</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
